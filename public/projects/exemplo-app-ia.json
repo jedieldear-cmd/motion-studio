@@ -1,0 +1,65 @@
+{
+  "title": "exemplo-app-ia",
+  "theme": "ai-tech",
+  "style": "viral-fast",
+  "format": "vertical",
+  "scenes": [
+    {
+      "duration": 3.5,
+      "camera": "whip",
+      "kind": "title",
+      "text": "Crie um app com IA em 3 *passos*",
+      "subtitle": "Sem saber programar.",
+      "narration": "Crie um app com IA em 3 passos. Sem saber programar."
+    },
+    {
+      "duration": 3.5,
+      "transition": "whip",
+      "camera": "shake",
+      "kind": "highlight",
+      "text": "[Passo] um: [escreva] em uma frase o [problema] que o…",
+      "narration": "Passo um: escreva em uma frase o problema que o app resolve."
+    },
+    {
+      "duration": 3.5,
+      "transition": "glitch",
+      "camera": "zoom-in",
+      "kind": "highlight",
+      "text": "[Passo] dois: [descreva] as [telas] para a IA, uma por…",
+      "narration": "Passo dois: descreva as telas para a IA, uma por vez, com exemplos reais."
+    },
+    {
+      "duration": 3.5,
+      "transition": "motion-blur",
+      "camera": "speed-ramp",
+      "kind": "highlight",
+      "text": "[Passo] três: teste com cinco [pessoas] antes de [lançar].",
+      "narration": "Passo três: teste com cinco pessoas antes de lançar."
+    },
+    {
+      "duration": 3.5,
+      "transition": "cut",
+      "camera": "whip",
+      "kind": "cards",
+      "text": "O checklist",
+      "items": [
+        "Uma frase de problema",
+        "Telas descritas com exemplos",
+        "Cinco testes reais"
+      ],
+      "narration": "O checklist. Uma frase de problema. Telas descritas com exemplos. Cinco testes reais."
+    },
+    {
+      "duration": 3.5,
+      "transition": "whip",
+      "camera": "shake",
+      "kind": "outro",
+      "text": "*Salva* esse vídeo",
+      "narration": "Salva esse vídeo e segue para ver o app pronto."
+    }
+  ],
+  "musicVolume": 0.35,
+  "captions": "auto",
+  "intensity": 1,
+  "showSafeArea": false
+}

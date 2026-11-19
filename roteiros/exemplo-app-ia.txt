@@ -1,0 +1,15 @@
+# Crie um app com IA em 3 passos
+Sem saber programar.
+
+Passo um: escreva em uma frase o problema que o app resolve.
+
+Passo dois: descreva as telas para a IA, uma por vez, com exemplos reais.
+
+Passo três: teste com cinco pessoas antes de lançar.
+
+O checklist
+- Uma frase de problema
+- Telas descritas com exemplos
+- Cinco testes reais
+
+CTA: Salva esse vídeo e segue para ver o app pronto.

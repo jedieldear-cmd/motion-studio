@@ -1,0 +1,147 @@
+{
+  "title": "exemplo-gta6",
+  "theme": "gta6",
+  "style": "cinematic",
+  "format": "vertical",
+  "scenes": [
+    {
+      "duration": 6.11,
+      "camera": "zoom-in",
+      "kind": "title",
+      "text": "Como *analisar* um trailer quadro a quadro",
+      "subtitle": "O método que os canais grandes usam.",
+      "narration": "Como analisar um trailer quadro a quadro. O método que os canais grandes usam.",
+      "voice": "audio/exemplo-gta6/cena-01.wav",
+      "voiceDuration": 4.71
+    },
+    {
+      "duration": 5.75,
+      "transition": "cinematic-reveal",
+      "camera": "parallax",
+      "kind": "highlight",
+      "text": "[Primeiro], baixe o trailer oficial na maior [qualidade] [disponível] e…",
+      "narration": "Primeiro, baixe o trailer oficial na maior qualidade disponível e assista uma vez sem pausar.",
+      "voice": "audio/exemplo-gta6/cena-02.wav",
+      "voiceDuration": 5.15
+    },
+    {
+      "duration": 5.53,
+      "transition": "light-leak",
+      "camera": "rack-focus",
+      "kind": "map",
+      "text": "",
+      "narration": "Depois, anote onde cada cena acontece e ligue os pontos no mapa.",
+      "map": {
+        "target": [
+          0.48,
+          0.55
+        ],
+        "pins": [
+          {
+            "at": [
+              0.42,
+              0.47
+            ],
+            "label": "Cena 1"
+          },
+          {
+            "at": [
+              0.56,
+              0.56
+            ],
+            "label": "Cena 2"
+          },
+          {
+            "at": [
+              0.4,
+              0.65
+            ],
+            "label": "Cena 3"
+          }
+        ],
+        "route": [
+          [
+            0.42,
+            0.47
+          ],
+          [
+            0.56,
+            0.56
+          ],
+          [
+            0.4,
+            0.65
+          ]
+        ],
+        "coordinates": "MAPA ILUSTRATIVO"
+      },
+      "voice": "audio/exemplo-gta6/cena-03.wav",
+      "voiceDuration": 4.13
+    },
+    {
+      "duration": 7.3,
+      "transition": "motion-blur",
+      "camera": "zoom-out",
+      "kind": "highlight",
+      "text": "[Agora] [pause] em cada [corte].",
+      "narration": "Agora pause em cada corte. Placas, letreiros e reflexos escondem os melhores detalhes.",
+      "voice": "audio/exemplo-gta6/cena-04.wav",
+      "voiceDuration": 5.9
+    },
+    {
+      "duration": 3.78,
+      "transition": "cinematic-reveal",
+      "camera": "zoom-in",
+      "kind": "stat",
+      "text": "",
+      "narration": "Use a reprodução quadro a quadro para não perder nada.",
+      "stat": {
+        "to": 60,
+        "decimals": 0,
+        "label": "por segundo para revisar"
+      },
+      "voice": "audio/exemplo-gta6/cena-05.wav",
+      "voiceDuration": 3.18
+    },
+    {
+      "duration": 9.05,
+      "transition": "light-leak",
+      "camera": "parallax",
+      "kind": "cards",
+      "text": "O que checar em cada cena",
+      "items": [
+        "Fonte oficial do material",
+        "Data de publicação",
+        "Se é confirmado ou só teoria"
+      ],
+      "narration": "O que checar em cada cena. Fonte oficial do material. Data de publicação. Se é confirmado ou só teoria.",
+      "voice": "audio/exemplo-gta6/cena-06.wav",
+      "voiceDuration": 7.65
+    },
+    {
+      "duration": 6.74,
+      "transition": "motion-blur",
+      "camera": "rack-focus",
+      "kind": "highlight",
+      "text": "[Separe] [sempre] o que é [confirmado] do que é teoria.",
+      "narration": "Separe sempre o que é confirmado do que é teoria. Isso protege a credibilidade do seu canal.",
+      "voice": "audio/exemplo-gta6/cena-07.wav",
+      "voiceDuration": 5.34
+    },
+    {
+      "duration": 3.25,
+      "transition": "cinematic-reveal",
+      "camera": "zoom-out",
+      "kind": "outro",
+      "text": "*Segue* para a parte 2",
+      "narration": "Segue para a parte 2 com a análise completa.",
+      "voice": "audio/exemplo-gta6/cena-08.wav",
+      "voiceDuration": 2.65
+    }
+  ],
+  "musicVolume": 0.35,
+  "captions": "auto",
+  "intensity": 1,
+  "showSafeArea": false,
+  "handle": "@seucanal"
+}
